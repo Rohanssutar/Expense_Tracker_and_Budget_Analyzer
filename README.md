@@ -1,5 +1,5 @@
 # Expense Tracker & Budget Analyzer
-#### Video Demo: <>
+#### Video Demo: <https://youtu.be/2zbLzO6E6gM>
 
 #### Description:
 A command-line Python application that helps you **track expenses**, **categorize transactions**, and **analyze monthly budgets** using a CSV file of transactions.
